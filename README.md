@@ -35,10 +35,10 @@ One of my key achievements has been consolidating scattered data models, applyin
 
 ## 📂 Projects
 - [Global Arms Trade Analytics](https://github.com/Akash-Bharadwaj/Data-Science-Project/tree/main/Defence-Market-Analysis)
-    ![image](https://github.com/user-attachments/assets/232f8cb3-3045-47b4-a24e-822adbb220b9)
+    ![image](https://github.com/user-attachments/assets/9e814994-1bf9-448c-a381-656009d28cd2)
 
 - [Vehicle Automation AI Model](https://github.com/Akash-Bharadwaj/Final_Year_Project-IEM)
-    ![image](https://github.com/user-attachments/assets/8e8837f8-fdd3-4f01-9136-4a3472e3fc2b)
+    ![image](https://github.com/user-attachments/assets/dce2677e-4be1-49ae-99c4-d846f939e8fb)
 
 
 ## 📫 Connect with Me

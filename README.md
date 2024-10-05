@@ -48,4 +48,4 @@ One of my key achievements has been consolidating scattered data models, applyin
 - [HackerRank](https://www.hackerrank.com/profile/akashbharadwaj11)
 
 ## 📄 Download Resume
-[Download Resume](https://github.com/Akash-Bharadwaj/Profile/blob/main/Akash-Bharadwaj-FlowCV-Resume-20240924.pdf)
+[Download Resume](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/Akash-Bharadwaj-FlowCV-Resume-20240924.pdf)

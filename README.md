@@ -1,6 +1,14 @@
 # Akash Bharadwaj
   Data Analyst
 
+# Quick Links
+
+- [About Me](#🚀 About Me)
+- [Experience](# 💼 Experience)
+- [Technical Skills](#🛠️ Technical Skills)
+- [Projects](#📂 Projects)
+- [Contact](#📫 Connect with Me)
+
 ## 🚀 About Me
 I am a dedicated Data Engineer and Analyst at Cognizant, With almost 2 years of experience as a BI Developer, I specialize in developing robust data pipelines, optimizing workflows, ensuring data quality to drive impactful decision-making, and creating BI Analytics systems. Proficient in Python, SQL, and DAX for data manipulation and transformation,
 

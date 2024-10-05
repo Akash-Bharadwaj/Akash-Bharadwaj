@@ -3,7 +3,7 @@
 
 # Quick Links
 
-- [About Me](#about_me)
+- [About Me](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#-about-me)
 - [Experience](#Experience)
 - [Technical Skills](#technical_skills)
 - [Projects](#Projects)

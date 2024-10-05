@@ -4,10 +4,10 @@
 # Quick Links
 
 - [About Me](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#-about-me)
-- [Experience](#Experience)
-- [Technical Skills](#technical_skills)
-- [Projects](#Projects)
-- [Contact](#Connect)
+- [Experience](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#-experience)
+- [Technical Skills](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#%EF%B8%8F-technical-skills)
+- [Projects](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#-projects)
+- [Contact](https://github.com/Akash-Bharadwaj/Akash-Bharadwaj/blob/main/README.md#-connect-with-me)
 
 ## 🚀 About Me
 I am a dedicated Data Engineer and Analyst at Cognizant, With almost 2 years of experience as a BI Developer, I specialize in developing robust data pipelines, optimizing workflows, ensuring data quality to drive impactful decision-making, and creating BI Analytics systems. Proficient in Python, SQL, and DAX for data manipulation and transformation,
